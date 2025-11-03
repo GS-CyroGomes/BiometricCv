@@ -1,0 +1,3 @@
+C:/Users/Giusoft/Documents/GitHub/TemoraColetaETT/cv/build/CMakeFiles/biometric_capture.dir
+C:/Users/Giusoft/Documents/GitHub/TemoraColetaETT/cv/build/CMakeFiles/edit_cache.dir
+C:/Users/Giusoft/Documents/GitHub/TemoraColetaETT/cv/build/CMakeFiles/rebuild_cache.dir

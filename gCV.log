@@ -1,0 +1,96 @@
+[2025-11-02 13:37:04] [INFO] Logger inicializado.
+[2025-11-02 13:37:04] [INFO] Application constructor called.
+[2025-11-02 13:37:04] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 13:37:04] [INFO] Iniciando StreamServer.
+[2025-11-02 13:37:04] [INFO] Iniciando FeedbackServer.
+[2025-11-02 13:37:05] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 13:37:06] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 13:37:07] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-02 13:37:07] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-02 14:01:30] [INFO] Logger inicializado.
+[2025-11-02 14:01:30] [INFO] Application constructor called.
+[2025-11-02 14:01:30] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:01:30] [INFO] Iniciando StreamServer.
+[2025-11-02 14:01:30] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:01:32] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:01:34] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:01:34] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-02 14:01:34] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-02 14:02:36] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-02 14:02:36] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-02 14:02:40] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-02 14:02:40] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-02 14:22:19] [INFO] Logger inicializado.
+[2025-11-02 14:22:19] [INFO] Application constructor called.
+[2025-11-02 14:22:19] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:22:19] [INFO] Iniciando StreamServer.
+[2025-11-02 14:22:19] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:22:20] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:22:21] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:28:12] [INFO] Logger inicializado.
+[2025-11-02 14:28:12] [INFO] Application constructor called.
+[2025-11-02 14:28:12] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:28:12] [INFO] Iniciando StreamServer.
+[2025-11-02 14:28:12] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:28:13] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:28:15] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:28:25] [INFO] Logger inicializado.
+[2025-11-02 14:28:25] [INFO] Application constructor called.
+[2025-11-02 14:28:25] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:28:25] [INFO] Iniciando StreamServer.
+[2025-11-02 14:28:25] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:28:26] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:28:28] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:35:15] [INFO] Logger inicializado.
+[2025-11-02 14:35:15] [INFO] Application constructor called.
+[2025-11-02 14:35:15] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:35:15] [INFO] Iniciando StreamServer.
+[2025-11-02 14:35:15] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:35:16] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:35:18] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:35:32] [INFO] Logger inicializado.
+[2025-11-02 14:35:32] [INFO] Application constructor called.
+[2025-11-02 14:35:32] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:35:32] [INFO] Iniciando StreamServer.
+[2025-11-02 14:35:32] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:35:33] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:35:35] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:41:47] [INFO] Logger inicializado.
+[2025-11-02 14:41:47] [INFO] Application constructor called.
+[2025-11-02 14:41:47] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:41:47] [INFO] Iniciando StreamServer.
+[2025-11-02 14:41:47] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:41:48] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:41:49] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:41:49] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-02 14:41:49] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-02 14:52:19] [INFO] Logger inicializado.
+[2025-11-02 14:52:19] [INFO] Application constructor called.
+[2025-11-02 14:52:19] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 14:52:19] [INFO] Iniciando StreamServer.
+[2025-11-02 14:52:19] [INFO] Iniciando FeedbackServer.
+[2025-11-02 14:52:20] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 14:52:21] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 14:52:21] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-02 14:52:21] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-02 15:00:04] [INFO] Logger inicializado.
+[2025-11-02 15:00:04] [INFO] Application constructor called.
+[2025-11-02 15:00:04] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 15:00:04] [INFO] Iniciando StreamServer.
+[2025-11-02 15:00:04] [INFO] Iniciando FeedbackServer.
+[2025-11-02 15:00:05] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 15:00:06] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 15:05:22] [INFO] Logger inicializado.
+[2025-11-02 15:05:22] [INFO] Application constructor called.
+[2025-11-02 15:05:22] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 15:05:22] [INFO] Iniciando StreamServer.
+[2025-11-02 15:05:22] [INFO] Iniciando FeedbackServer.
+[2025-11-02 15:05:23] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 15:05:24] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-02 15:06:31] [INFO] Logger inicializado.
+[2025-11-02 15:06:31] [INFO] Application constructor called.
+[2025-11-02 15:06:31] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-02 15:06:31] [INFO] Iniciando StreamServer.
+[2025-11-02 15:06:31] [INFO] Iniciando FeedbackServer.
+[2025-11-02 15:06:32] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-02 15:06:33] [INFO] Resolucao da camera configurada para 640x480
