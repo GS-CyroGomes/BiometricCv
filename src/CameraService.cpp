@@ -9,7 +9,7 @@ CameraService::~CameraService() {
 
 bool CameraService::open() {
     #ifdef _WIN32
-        m_capture.open(m_cameraIndex, cv::CAP_DSHOW);
+        m_capture.open(m_cameraIndex, cv::CAP_MSMF);
     #else
         m_capture.open(m_cameraIndex);
     #endif

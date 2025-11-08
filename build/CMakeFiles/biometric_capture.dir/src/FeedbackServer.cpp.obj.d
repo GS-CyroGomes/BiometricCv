@@ -1,6 +1,6 @@
 CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj: \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\FeedbackServer.cpp \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\FeedbackServer.hpp \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\FeedbackServer.cpp \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\FeedbackServer.hpp \
  C:/mingw64/include/boost/asio.hpp \
  C:/mingw64/include/boost/asio/any_completion_executor.hpp \
  C:/mingw64/include/boost/asio/detail/config.hpp \
@@ -1237,7 +1237,7 @@ CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj: \
  C:/mingw64/include/c++/13.2.0/deque \
  C:/mingw64/include/c++/13.2.0/bits/stl_deque.h \
  C:/mingw64/include/c++/13.2.0/bits/deque.tcc \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\Logger.hpp \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.hpp \
  C:/mingw64/include/c++/13.2.0/fstream \
  C:/mingw64/include/c++/13.2.0/bits/codecvt.h \
  C:/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/basic_file.h \

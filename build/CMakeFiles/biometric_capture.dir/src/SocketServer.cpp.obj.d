@@ -1,6 +1,6 @@
 CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj: \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\SocketServer.cpp \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\SocketServer.hpp \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\SocketServer.cpp \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\SocketServer.hpp \
  C:/mingw64/include/c++/13.2.0/string \
  C:/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -1238,7 +1238,7 @@ CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj: \
  C:/mingw64/include/boost/bind/placeholders.hpp \
  C:/mingw64/include/c++/13.2.0/thread \
  C:/mingw64/include/c++/13.2.0/bits/this_thread_sleep.h \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\Logger.hpp \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.hpp \
  C:/mingw64/include/c++/13.2.0/fstream \
  C:/mingw64/include/c++/13.2.0/bits/codecvt.h \
  C:/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/basic_file.h \

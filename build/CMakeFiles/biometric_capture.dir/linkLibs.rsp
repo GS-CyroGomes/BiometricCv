@@ -1,1 +1,1 @@
- C:/Users/Giusoft/Documents/GitHub/TemoraColetaETT/cv/vendor/opencv/lib/libopencv_world480.dll -lportaudio -lsndfile -lws2_32 -lmswsock -lshlwapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ C:/Users/Giusoft/Documents/GitHub/BiometricCv/vendor/opencv/lib/libopencv_world480.dll -lportaudio -lsndfile -lws2_32 -lmswsock -lshlwapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

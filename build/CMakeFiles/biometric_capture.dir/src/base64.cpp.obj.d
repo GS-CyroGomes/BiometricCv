@@ -1,6 +1,6 @@
 CMakeFiles/biometric_capture.dir/src/base64.cpp.obj: \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\base64.cpp \
- C:\Users\Giusoft\Documents\GitHub\TemoraColetaETT\cv\src\base64.h \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\base64.cpp \
+ C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\base64.h \
  C:/mingw64/include/c++/13.2.0/string \
  C:/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
