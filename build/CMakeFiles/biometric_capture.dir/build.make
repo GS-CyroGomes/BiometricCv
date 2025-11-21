@@ -143,86 +143,11 @@ CMakeFiles/biometric_capture.dir/src/StateController.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/StateController.cpp.s"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\StateController.cpp -o CMakeFiles\biometric_capture.dir\src\StateController.cpp.s
 
-CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/SearchingFaceState.cpp
-CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\SearchingFaceState.cpp
-
-CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\SearchingFaceState.cpp > CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\SearchingFaceState.cpp -o CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/ValidatingState.cpp
-CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\ValidatingState.cpp
-
-CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\ValidatingState.cpp > CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\ValidatingState.cpp -o CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/BiometricsCaptureState.cpp
-CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\BiometricsCaptureState.cpp
-
-CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\BiometricsCaptureState.cpp > CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\BiometricsCaptureState.cpp -o CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/CaptureSuccessState.cpp
-CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureSuccessState.cpp
-
-CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureSuccessState.cpp > CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureSuccessState.cpp -o CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/CaptureFailedState.cpp
-CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureFailedState.cpp
-
-CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureFailedState.cpp > CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureFailedState.cpp -o CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.s
-
 CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
 CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
 CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/SocketServer.cpp
 CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\SocketServer.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\SocketServer.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\SocketServer.cpp
 
 CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.i: cmake_force
@@ -233,101 +158,11 @@ CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.s"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\SocketServer.cpp -o CMakeFiles\biometric_capture.dir\src\SocketServer.cpp.s
 
-CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/EnvironmentCheckState.cpp
-CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\EnvironmentCheckState.cpp
-
-CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\EnvironmentCheckState.cpp > CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\EnvironmentCheckState.cpp -o CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/MonitoringState.cpp
-CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\MonitoringState.cpp
-
-CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\MonitoringState.cpp > CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\MonitoringState.cpp -o CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/AudioRecorder.cpp
-CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\AudioRecorder.cpp
-
-CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\AudioRecorder.cpp > CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\AudioRecorder.cpp -o CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/VideoRecorder.cpp
-CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\VideoRecorder.cpp
-
-CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\VideoRecorder.cpp > CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\VideoRecorder.cpp -o CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/Logger.cpp
-CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\Logger.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\Logger.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.cpp
-
-CMakeFiles/biometric_capture.dir/src/Logger.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/Logger.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.cpp > CMakeFiles\biometric_capture.dir\src\Logger.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/Logger.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/Logger.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.cpp -o CMakeFiles\biometric_capture.dir\src\Logger.cpp.s
-
-CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
-CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
-CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/Utils.cpp
-CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\Utils.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\Utils.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Utils.cpp
-
-CMakeFiles/biometric_capture.dir/src/Utils.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/Utils.cpp.i"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Utils.cpp > CMakeFiles\biometric_capture.dir\src\Utils.cpp.i
-
-CMakeFiles/biometric_capture.dir/src/Utils.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/Utils.cpp.s"
-	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Utils.cpp -o CMakeFiles\biometric_capture.dir\src\Utils.cpp.s
-
 CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
 CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
 CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/StreamServer.cpp
 CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\StreamServer.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\StreamServer.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\StreamServer.cpp
 
 CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.i: cmake_force
@@ -342,7 +177,7 @@ CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj: CMakeFiles/biometri
 CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
 CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/FeedbackServer.cpp
 CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\FeedbackServer.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\FeedbackServer.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\FeedbackServer.cpp
 
 CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.i: cmake_force
@@ -353,11 +188,86 @@ CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.s"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\FeedbackServer.cpp -o CMakeFiles\biometric_capture.dir\src\FeedbackServer.cpp.s
 
+CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/Logger.cpp
+CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\Logger.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\Logger.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.cpp
+
+CMakeFiles/biometric_capture.dir/src/Logger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/Logger.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.cpp > CMakeFiles\biometric_capture.dir\src\Logger.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/Logger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/Logger.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Logger.cpp -o CMakeFiles\biometric_capture.dir\src\Logger.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/Utils.cpp
+CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\Utils.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\Utils.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Utils.cpp
+
+CMakeFiles/biometric_capture.dir/src/Utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/Utils.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Utils.cpp > CMakeFiles\biometric_capture.dir\src\Utils.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/Utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/Utils.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\Utils.cpp -o CMakeFiles\biometric_capture.dir\src\Utils.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/VideoRecorder.cpp
+CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\VideoRecorder.cpp
+
+CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\VideoRecorder.cpp > CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\VideoRecorder.cpp -o CMakeFiles\biometric_capture.dir\src\VideoRecorder.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/AudioRecorder.cpp
+CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\AudioRecorder.cpp
+
+CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\AudioRecorder.cpp > CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\AudioRecorder.cpp -o CMakeFiles\biometric_capture.dir\src\AudioRecorder.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/FacialValidator.cpp
+CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\FacialValidator.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\FacialValidator.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\FacialValidator.cpp
+
+CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\FacialValidator.cpp > CMakeFiles\biometric_capture.dir\src\FacialValidator.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\FacialValidator.cpp -o CMakeFiles\biometric_capture.dir\src\FacialValidator.cpp.s
+
 CMakeFiles/biometric_capture.dir/src/base64.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
 CMakeFiles/biometric_capture.dir/src/base64.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
 CMakeFiles/biometric_capture.dir/src/base64.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/base64.cpp
 CMakeFiles/biometric_capture.dir/src/base64.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/biometric_capture.dir/src/base64.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/biometric_capture.dir/src/base64.cpp.obj"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/base64.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\base64.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\base64.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\base64.cpp
 
 CMakeFiles/biometric_capture.dir/src/base64.cpp.i: cmake_force
@@ -368,6 +278,111 @@ CMakeFiles/biometric_capture.dir/src/base64.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/base64.cpp.s"
 	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\base64.cpp -o CMakeFiles\biometric_capture.dir\src\base64.cpp.s
 
+CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/BiometricsCaptureState.cpp
+CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\BiometricsCaptureState.cpp
+
+CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\BiometricsCaptureState.cpp > CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\BiometricsCaptureState.cpp -o CMakeFiles\biometric_capture.dir\src\states\BiometricsCaptureState.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/CaptureFailedState.cpp
+CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureFailedState.cpp
+
+CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureFailedState.cpp > CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureFailedState.cpp -o CMakeFiles\biometric_capture.dir\src\states\CaptureFailedState.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/CaptureSuccessState.cpp
+CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureSuccessState.cpp
+
+CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureSuccessState.cpp > CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\CaptureSuccessState.cpp -o CMakeFiles\biometric_capture.dir\src\states\CaptureSuccessState.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/EnvironmentCheckState.cpp
+CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\EnvironmentCheckState.cpp
+
+CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\EnvironmentCheckState.cpp > CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\EnvironmentCheckState.cpp -o CMakeFiles\biometric_capture.dir\src\states\EnvironmentCheckState.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/MonitoringState.cpp
+CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\MonitoringState.cpp
+
+CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\MonitoringState.cpp > CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\MonitoringState.cpp -o CMakeFiles\biometric_capture.dir\src\states\MonitoringState.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/SearchingFaceState.cpp
+CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\SearchingFaceState.cpp
+
+CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\SearchingFaceState.cpp > CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\SearchingFaceState.cpp -o CMakeFiles\biometric_capture.dir\src\states\SearchingFaceState.cpp.s
+
+CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: CMakeFiles/biometric_capture.dir/flags.make
+CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: CMakeFiles/biometric_capture.dir/includes_CXX.rsp
+CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/states/ValidatingState.cpp
+CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj: CMakeFiles/biometric_capture.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj -MF CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.obj.d -o CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.obj -c C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\ValidatingState.cpp
+
+CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.i"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\ValidatingState.cpp > CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.i
+
+CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.s"
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Giusoft\Documents\GitHub\BiometricCv\src\states\ValidatingState.cpp -o CMakeFiles\biometric_capture.dir\src\states\ValidatingState.cpp.s
+
 # Object files for target biometric_capture
 biometric_capture_OBJECTS = \
 "CMakeFiles/biometric_capture.dir/src/main.cpp.obj" \
@@ -375,21 +390,22 @@ biometric_capture_OBJECTS = \
 "CMakeFiles/biometric_capture.dir/src/UIManager.cpp.obj" \
 "CMakeFiles/biometric_capture.dir/src/FaceProcessor.cpp.obj" \
 "CMakeFiles/biometric_capture.dir/src/StateController.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj" \
 "CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj" \
 "CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj" \
 "CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj" \
-"CMakeFiles/biometric_capture.dir/src/base64.cpp.obj"
+"CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/base64.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj" \
+"CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj"
 
 # External object files for target biometric_capture
 biometric_capture_EXTERNAL_OBJECTS =
@@ -399,27 +415,28 @@ biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/CameraService.cpp.ob
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/UIManager.cpp.obj
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/FaceProcessor.cpp.obj
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/StateController.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj
-biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/StreamServer.cpp.obj
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/Utils.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/VideoRecorder.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/base64.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/BiometricsCaptureState.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/CaptureFailedState.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/CaptureSuccessState.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/EnvironmentCheckState.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/MonitoringState.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/SearchingFaceState.cpp.obj
+biometric_capture.exe: CMakeFiles/biometric_capture.dir/src/states/ValidatingState.cpp.obj
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/build.make
 biometric_capture.exe: C:/Users/Giusoft/Documents/GitHub/BiometricCv/vendor/opencv/lib/libopencv_world480.dll
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/linkLibs.rsp
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/objects1.rsp
 biometric_capture.exe: CMakeFiles/biometric_capture.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable biometric_capture.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Giusoft\Documents\GitHub\BiometricCv\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable biometric_capture.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\biometric_capture.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Criando diretório proc"
 	"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/Giusoft/Documents/GitHub/BiometricCv/build/proc

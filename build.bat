@@ -24,7 +24,7 @@ cd %BUILD_DIR%
 
 :: --- Configura o CMake ---
 echo Configurando CMake...
-cmake -G %CMAKE_GENERATOR% -DOpenCV_DIR="%OPENCV_MINGW_DIR%" ..
+cmake -G %CMAKE_GENERATOR% ..
 if %errorlevel% neq 0 (
     echo ERRO: Falha na configuração do CMake.
     cd ..

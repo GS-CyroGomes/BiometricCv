@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/biometric_capture.dir/src/CameraService.cpp.obj.d"
   "CMakeFiles/biometric_capture.dir/src/FaceProcessor.cpp.obj"
   "CMakeFiles/biometric_capture.dir/src/FaceProcessor.cpp.obj.d"
+  "CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj"
+  "CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj.d"
   "CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj"
   "CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj.d"
   "CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj"

@@ -52,7 +52,7 @@ public:
         if (m_isRunning) {
             Logger::getInstance().info("Resolucao da camera configurada para " + std::to_string(m_cameraService.getWidth()) + "x" + std::to_string(m_cameraService.getHeight()));
             m_faceProcessor.initialize(m_cameraService.getWidth(), m_cameraService.getHeight());
-            // m_uiManager.createWindow(m_cameraService.getWidth(), m_cameraService.getHeight());
+            m_uiManager.createWindow(m_cameraService.getWidth(), m_cameraService.getHeight());
         }
 
         cv::Mat currentFrame;
@@ -72,14 +72,14 @@ public:
 
             m_stateController.update(analysisResult, currentFrame, m_uiManager);
 
-            // m_uiManager.showFrame(currentFrame);
+            m_uiManager.showFrame(currentFrame);
             m_streamServer.streamFrame(currentFrame);
             m_feedbackServer.sendFeedback(m_stateController.getCurrentStateMessage());
 
-            // int key = m_uiManager.waitKey(1);
-            // if (key == 27) { // ESC
-            //     m_isRunning = false;
-            // }
+            int key = m_uiManager.waitKey(1);
+            if (key == 27) { // ESC
+                m_isRunning = false;
+            }
         }
     }
 

@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/AudioRecorder.cpp" "CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj" "gcc" "CMakeFiles/biometric_capture.dir/src/AudioRecorder.cpp.obj.d"
   "C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/CameraService.cpp" "CMakeFiles/biometric_capture.dir/src/CameraService.cpp.obj" "gcc" "CMakeFiles/biometric_capture.dir/src/CameraService.cpp.obj.d"
   "C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/FaceProcessor.cpp" "CMakeFiles/biometric_capture.dir/src/FaceProcessor.cpp.obj" "gcc" "CMakeFiles/biometric_capture.dir/src/FaceProcessor.cpp.obj.d"
+  "C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/FacialValidator.cpp" "CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj" "gcc" "CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj.d"
   "C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/FeedbackServer.cpp" "CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj" "gcc" "CMakeFiles/biometric_capture.dir/src/FeedbackServer.cpp.obj.d"
   "C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/Logger.cpp" "CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj" "gcc" "CMakeFiles/biometric_capture.dir/src/Logger.cpp.obj.d"
   "C:/Users/Giusoft/Documents/GitHub/BiometricCv/src/SocketServer.cpp" "CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj" "gcc" "CMakeFiles/biometric_capture.dir/src/SocketServer.cpp.obj.d"

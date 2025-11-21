@@ -200,6 +200,30 @@ src/FaceProcessor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\biometric_capture.dir\build.make CMakeFiles/biometric_capture.dir/src/FaceProcessor.cpp.s
 .PHONY : src/FaceProcessor.cpp.s
 
+src/FacialValidator.obj: src/FacialValidator.cpp.obj
+.PHONY : src/FacialValidator.obj
+
+# target to build an object file
+src/FacialValidator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biometric_capture.dir\build.make CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.obj
+.PHONY : src/FacialValidator.cpp.obj
+
+src/FacialValidator.i: src/FacialValidator.cpp.i
+.PHONY : src/FacialValidator.i
+
+# target to preprocess a source file
+src/FacialValidator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biometric_capture.dir\build.make CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.i
+.PHONY : src/FacialValidator.cpp.i
+
+src/FacialValidator.s: src/FacialValidator.cpp.s
+.PHONY : src/FacialValidator.s
+
+# target to generate assembly for a file
+src/FacialValidator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\biometric_capture.dir\build.make CMakeFiles/biometric_capture.dir/src/FacialValidator.cpp.s
+.PHONY : src/FacialValidator.cpp.s
+
 src/FeedbackServer.obj: src/FeedbackServer.cpp.obj
 .PHONY : src/FeedbackServer.obj
 
@@ -626,6 +650,9 @@ help:
 	@echo ... src/FaceProcessor.obj
 	@echo ... src/FaceProcessor.i
 	@echo ... src/FaceProcessor.s
+	@echo ... src/FacialValidator.obj
+	@echo ... src/FacialValidator.i
+	@echo ... src/FacialValidator.s
 	@echo ... src/FeedbackServer.obj
 	@echo ... src/FeedbackServer.i
 	@echo ... src/FeedbackServer.s

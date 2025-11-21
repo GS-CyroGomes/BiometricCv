@@ -26,13 +26,13 @@ bool validate_image_logic(const cv::Mat& img, std::string& failure_reason) {
 
 
 extern "C" {
-    FACIALVALIDATOR_API void InitializeValidator() {
+    void InitializeValidator() {
         // Carregar aqui os classificadores do OpenCV (ex: haarcascade, modelos de landmarks).
         // Exemplo:
         // face_cascade.load("models/haarcascade_frontalface_default.xml");
     }
 
-    FACIALVALIDATOR_API bool ValidateFinalPhoto(const unsigned char* imageData, int imageSize, char* failureReason, int reasonSize) {
+    bool ValidateFinalPhoto(const unsigned char* imageData, int imageSize, char* failureReason, int reasonSize) {
         if (!imageData || imageSize <= 0) {
             strncpy_s(failureReason, reasonSize, "Dados da imagem são inválidos.", _TRUNCATE);
             return false;

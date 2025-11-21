@@ -19,22 +19,22 @@ add_executable(biometric_capture
     src/UIManager.cpp
     src/FaceProcessor.cpp
     src/StateController.cpp
-    src/states/SearchingFaceState.cpp
-    src/states/ValidatingState.cpp
-    src/states/BiometricsCaptureState.cpp
-    src/states/CaptureSuccessState.cpp
-    src/states/CaptureFailedState.cpp
     src/SocketServer.cpp
-    src/SocketServer.cpp
-    src/states/EnvironmentCheckState.cpp
-    src/states/MonitoringState.cpp
-    src/AudioRecorder.cpp
-    src/VideoRecorder.cpp
-    src/Logger.cpp
-    src/Utils.cpp
     src/StreamServer.cpp
     src/FeedbackServer.cpp
+    src/Logger.cpp
+    src/Utils.cpp
+    src/VideoRecorder.cpp
+    src/AudioRecorder.cpp
+    src/FacialValidator.cpp
     src/base64.cpp
+    src/states/BiometricsCaptureState.cpp
+    src/states/CaptureFailedState.cpp
+    src/states/CaptureSuccessState.cpp
+    src/states/EnvironmentCheckState.cpp
+    src/states/MonitoringState.cpp
+    src/states/SearchingFaceState.cpp
+    src/states/ValidatingState.cpp
 )
 
 # --- Linka as bibliotecas ---

@@ -1,0 +1,51 @@
+[2025-11-21 17:54:11] [INFO] Logger inicializado.
+[2025-11-21 17:54:11] [INFO] Application constructor called.
+[2025-11-21 17:54:11] [INFO] Diretorio base da aplicacao: C:\Users\Giusoft\Documents\GitHub\BiometricCv\build
+[2025-11-21 17:54:11] [INFO] Iniciando Biometric Face Capture v1.0.0
+[2025-11-21 17:54:11] [INFO] StreamServer thread iniciada.
+[2025-11-21 17:54:11] [INFO] FeedbackServer thread iniciada.
+[2025-11-21 17:54:11] [INFO] SocketServer iniciado na porta 7007
+[2025-11-21 17:54:12] [INFO] Camera com indice 0 aberta com sucesso.
+[2025-11-21 17:54:13] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-21 17:54:13] [INFO] Resolucao da camera configurada para 640x480
+[2025-11-21 17:54:14] [INFO] Modelos de deteccao facial e landmarks carregados de: C:\Users\Giusoft\Documents\GitHub\BiometricCv\build
+[2025-11-21 17:54:14] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:14] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:24] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:24] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:25] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:25] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:25] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:25] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:26] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:26] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:37] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:37] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:37] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:37] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:39] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:39] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:39] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:39] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:39] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:39] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:40] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:40] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:41] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:41] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:41] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:41] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:41] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:41] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Entrando em 'Buscando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Saindo de 'Buscando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Entrando em 'Validando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Saindo de 'Validando Rosto'
+[2025-11-21 17:54:42] [INFO] STATE: Entrando em 'Buscando Rosto'
